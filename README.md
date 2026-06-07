@@ -28,7 +28,7 @@ This project analyzes student placement data using Tableau. The dashboard provid
 
 ## Dashboard Screenshot
 
-![Dashboard](Dashboard.png)
+![Dashboard](dashboard.png)
 
 ## Dataset
 
